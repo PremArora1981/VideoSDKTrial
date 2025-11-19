@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+# Core SDK
+../videosdk-agents
+# Plugins
+../videosdk-plugins/videosdk-plugins-openai
+../videosdk-plugins/videosdk-plugins-deepgram
+../videosdk-plugins/videosdk-plugins-elevenlabs
+../videosdk-plugins/videosdk-plugins-cartesia
+../videosdk-plugins/videosdk-plugins-google
+../videosdk-plugins/videosdk-plugins-anthropic
+
