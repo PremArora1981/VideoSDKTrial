@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+websockets
+# videosdk-agents should be installed from the repo root for development
+
+
